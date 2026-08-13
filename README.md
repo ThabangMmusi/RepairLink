@@ -63,3 +63,5 @@ RepairLink/
 ```
 
 Read [RUN.md](RUN.md) for the complete setup procedure and [REPORT.md](REPORT.md) for the assignment report draft.
+
+> Windows users should follow the Windows PowerShell or Windows Git Bash section in [RUN.md](RUN.md). In particular, Windows uses `.venv\\Scripts` rather than `.venv/bin`, and dependencies must be installed through the virtual-environment interpreter to avoid global pip permission errors.
